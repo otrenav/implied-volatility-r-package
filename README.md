@@ -1,13 +1,12 @@
 
-| [Website](http://links.otrenav.com/website) | [Twitter](http://links.otrenav.com/twitter) | [LinkedIn](http://links.otrenav.com/linkedin)  | [GitHub](http://links.otrenav.com/github) | [GitLab](http://links.otrenav.com/gitlab) | [CodeMentor](http://links.otrenav.com/codementor) |
+[Delta Lab](https://links.deltalab.ai/website) | [Twitter](https://links.deltalab.ai/twitter) | [LinkedIn](https://links.deltalab.ai/linkedin)
 
 ---
 
 # European Options Implied Volatilities (R Package)
 
 This repository contains code for an R package that contains functions to
-compute and graph implied volatility for European Options. This was developed
-by Omar Trejo for John Dale.
+compute and graph implied volatility for European Options.
 
 - Omar Trejo
 - September, 2016
@@ -88,6 +87,4 @@ The previous instructions work fine using:
 
 ---
 
-> "The best ideas are common property."
->
-> —Seneca
+> "We are the people we have been waiting for."
